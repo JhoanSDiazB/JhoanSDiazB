@@ -10,7 +10,7 @@ Desarrollador y lider de aplicaciónes apasionado por la tecnología. Me encanta
 
 ### 📫 Cómo contactarme
 - Email: [sebastian.benavides@similtech.co](mailto:sebastian.benavides@similtech.co)
-- LinkedIn: [tuperfil](https://linkedin.com/in/sebastian-benavides-1b03161a2/)
+- LinkedIn: [sebastian-benavides](https://linkedin.com/in/sebastian-benavides-1b03161a2/)
 
 ---
 
