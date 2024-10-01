@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Sebastián Benavides
 
-<!--
-**JhoanSDiazB/JhoanSDiazB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador y lider de aplicaciónes apasionado por la tecnología. Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías y Herramientas
+- Lenguajes: **JavaScript**, **Python**, **C#**, **NetCore**
+- Frameworks: **Angular**, **Flask**, **Ionic**
+- Bases de datos: **MySQL**, **MongoDB**
+- IA: **Machine Learning**, **Deep Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Cómo contactarme
+- Email: [sebastian.benavides@similtech.co](mailto:sebastian.benavides@similtech.co)
+- LinkedIn: [tuperfil](https://linkedin.com/in/sebastian-benavides-1b03161a2/)
+
+---
+
+🌱 Actualmente aprendiendo sobre desarrollo web e inteligencia artificial.
+
+📚 ¡Siempre abierto a colaborar en proyectos interesantes y aprender más sobre tecnologías emergentes!
